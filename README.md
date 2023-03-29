@@ -15,7 +15,7 @@ Screenshot 3 PC - https://ibb.co/fYz3HHp
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- https://iraklido.github.io/typemaster-pre-launch-landing-page/
 
 ### Built with
 
