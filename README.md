@@ -1,11 +1,11 @@
 ## Table of contents
 
-    - [Table of contents](#table-of-contents)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-    - [Built with](#built-with)
-    - [Useful resources](#useful-resources)
-    - [Author](#author)
+ - [Table of contents](#table-of-contents)
+ - [Screenshot](#screenshot)
+ - [Links](#links)
+ - [Built with](#built-with)
+ - [Useful resources](#useful-resources)
+ - [Author](#author)
 
 ### Screenshot
 
